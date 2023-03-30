@@ -1,0 +1,67 @@
+body{
+  background-image: url(background.jpg);
+  background-size:cover;
+}
+
+.contenitore{
+  width: 850px;
+  height: 580px;
+  margin: auto;
+  border-radius:15px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+header{
+  text-align: center;
+}
+
+img{
+  height: 80px;
+  margin-top: 80px;
+}
+
+h2{
+  color: lime;
+  margin: auto;
+  margin-bottom: 3px;
+}
+
+nav{
+  text-align: center;
+  background-color:rgb(50,205,50);
+  padding: 10px;
+  width: 84%;
+  margin:auto;
+
+}
+input[type="submit"]{
+  margin: auto;
+
+}
+
+main{
+  color:white;
+  margin-left: 55px;
+  margin-top: 15px;
+}
+
+#carica1{
+  background-color: rgb(244,164,96);
+  padding: 10px;
+  width: 31%;
+  border-radius:5px;
+}
+
+#carica2{
+  background-color:rgb(0,205,0);
+  padding: 10px;
+  width: 53%;
+  border-radius:5px;
+}
+
+#carica3{
+  background-color:rgb(178,34,34);
+  padding: 10px;
+  width: 13%;
+  border-radius:5px;
+}
